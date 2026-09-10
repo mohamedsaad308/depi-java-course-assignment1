@@ -39,3 +39,12 @@ points), ranks teams by performance, and displays the standings table and match 
    prints the league table and match details to the console.
 
 ## Sample Output
+=== Match Details ===
+Match: Arsenal 2 - 1 Chelsea
+Bukayo Saka scored at minute 12
+Kai Havertz scored at minute 45
+Cole Palmer scored at minute 67
+Match: Chelsea 1 - 2 Arsenal
+Nicolas Jackson scored at minute 30
+Martin Odegaard scored at minute 55
+Martin Odegaard scored at minute 78
